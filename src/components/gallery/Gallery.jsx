@@ -3,7 +3,7 @@ import './gallery.css'
 export function Gallery()
 {
     return (
-        "Hola estas en Gallery Section! estamos agregando nuevos cambios, vuelve mas tarde"
+        " ESTAMOS TRABAJANDO EN ESTA SECCION"
     )
 }
 

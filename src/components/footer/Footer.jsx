@@ -32,7 +32,7 @@ export function Footer()
                         alt="Link Apple Music BrayanJSR"/>
                     </a>
                     <a href="https://www.amazon.com/music/player/artists/B088K566ZC/brayanjsr">
-                        <img src="https://play-lh.googleusercontent.com/Mv_SNRuyiIObeYg8bdCpNWzkLNkZxhxMXLGdNCZwU31SL7LfZW47WVhqEk4CKDhbYEA" 
+                        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F732749801904831372%2F&psig=AOvVaw3KgacXISCqBfXU4C_TaHK7&ust=1738668656744000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjol9Czp4sDFQAAAAAdAAAAABAE" 
                         alt="Link Amazon Music BrayanJSR"/>
                     </a>
                     <a href="https://www.instagram.com/brayan.ssai/">
